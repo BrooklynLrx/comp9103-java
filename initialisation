@@ -1,0 +1,18 @@
+Array initialisation:
+    int[] numbers = new int[10];
+    int[] numbers2 = {1,2,3,4};
+    int[] numbers3 = new int[] {1,2,3,4};
+    int[][] matrix1 = new int[3][3];
+String initialisation:
+    String[] a = new String[4];
+    String a = "hello";
+arraylist:
+    ArrayList<String> a = new ArrayList<String>();
+hashmap:
+    HashMap<String,Integer> seats = new HashMap<String,Integer>();
+hashset:
+    HashSet<String> s = new HashSet<String>();
+Linked_list:
+    LinkedList<String> sites = new LinkedList<String>();
+generic_array:
+    T[] array = (T[]) new Object[4];
